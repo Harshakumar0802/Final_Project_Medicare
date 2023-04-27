@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="med.webtest.MedicareContactTest" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="med.webtest.MedicareContactTest" time="0.069">
+    <testcase name="validateHeading" classname="med.webtest.MedicareContactTest" time="0.03"/>
+    <testcase name="validateContent" classname="med.webtest.MedicareContactTest" time="0.039"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="med.webtest.MedicareLoginTest" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="med.webtest.MedicareLoginTest" time="24.38">
+    <testcase name="validateUserLoginFail" classname="med.webtest.MedicareLoginTest" time="9.846"/>
+    <testcase name="validateUserLoginSucess" classname="med.webtest.MedicareLoginTest" time="7.519"/>
+    <testcase name="validateUserLoginSucess" classname="med.webtest.MedicareLoginTest" time="7.015"/>
+  </testsuite>
+</testrun>
